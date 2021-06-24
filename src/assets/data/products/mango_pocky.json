@@ -1,0 +1,7 @@
+{
+    "name": "Pocky Biscuit Sticks - Mango",
+    "path": "mango_pocky",
+    "price": 2.50,
+    "image": "/assets/images/mango_pocky.jpg",
+    "loadChildren": "app/product/product.module#ProductModule"
+}

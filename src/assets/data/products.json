@@ -1,0 +1,144 @@
+{
+    "data": [
+        {
+            "name": "Hokka Doraemon Milk Cookies",
+            "path": "doraemon",
+            "price": 1.90,
+            "image": "/assets/images/doraemon.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        },
+        {
+            "name": "Hayakawa Sumikko Gurashi Lactic Acid Tablets - Yogurt",
+            "path": "gurashi_tablets",
+            "price": 2.90,
+            "image": "/assets/images/gurashi_tablets.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        },
+        {
+            "name": "Pocky Heart Biscuit Sticks - Cherry",
+            "path": "heart_pocky",
+            "price": 5.90,
+            "image": "/assets/images/heart_pocky.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        },
+        {
+            "name": "Hello Kitty Candy - Strawberry",
+            "path": "hello_kitty",
+            "price": 3.20,
+            "image": "/assets/images/hello_kitty.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        },
+        {
+            "name": "Little Twin Stars Konpeito Candy",
+            "path": "kiki_lala",
+            "price": 3.90,
+            "image": "/assets/images/kiki_lala.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        },
+        {
+            "name": "Kirby Mix'n'Match Gum",
+            "path": "kirby",
+            "price": 2.90,
+            "image": "/assets/images/kirby.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        },
+        {
+            "name": "Pocky Biscuit Sticks - Mango",
+            "path": "mango_pocky",
+            "price": 2.50,
+            "image": "/assets/images/mango_pocky.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        },
+        {
+            "name": "Nobel Umeboshi No Taneame Plum Candy",
+            "path": "nobel",
+            "price": 3.90,
+            "image": "/assets/images/nobel.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        },
+        {
+            "name": "Kit Kat Chocolates - Japanese Plum",
+            "path": "plum_kitkat",
+            "price": 9.90,
+            "image": "/assets/images/plum_kitkat.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        },
+        {
+            "name": "Happy Nikukyu Polar Bear Paw Gummies - White Soda",
+            "path": "polar_bear",
+            "price": 3.50,
+            "image": "/assets/images/polar_bear.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        },
+        {
+            "name": "Puccho Chewy Candy - Strawberry",
+            "path": "puccho",
+            "price": 2.90,
+            "image": "/assets/images/puccho.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        },
+        {
+            "name": "Puchi Rascal The Raccoon Honey & Brown Sugar Candy",
+            "path": "raccoon",
+            "price": 4.20,
+            "image": "/assets/images/raccoon.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        },
+        {
+            "name": "Hayakawa Rilakkuma Cider Candy",
+            "path": "rilakkuma",
+            "price": 4.30,
+            "image": "/assets/images/rilakkuma.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        },
+        {
+            "name": "Pocky Biscuit Sticks - Sakura Almond",
+            "path": "sakura_pocky",
+            "price": 5.90,
+            "image": "/assets/images/sakura_pocky.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        },
+        {
+            "name": "Morinaga Koeda Chocolate - Strawberry",
+            "path": "strawberry_chocolate",
+            "price": 5.90,
+            "image": "/assets/images/strawberry_chocolate.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        },
+        {
+            "name": "Kit Kat Chocolates - Mini Strawberry",
+            "path": "strawberry_kitkat",
+            "price": 6.90,
+            "image": "/assets/images/strawberry_kitkat.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        },
+        {
+            "name": "Pocky Biscuit Sticks - Chunky Strawberry Chocolate",
+            "path": "strawberry_pocky",
+            "price": 4.90,
+            "image": "/assets/images/strawberry_pocky.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        },
+        {
+            "name": "Heart Sumikko Gurashi Bento Jelly",
+            "path": "sumikko_gurashi",
+            "price": 6.50,
+            "image": "/assets/images/sumikko_gurashi.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        },
+        {
+            "name": "Black Thunder Valentine's Day Chocolate Mini Bar Box",
+            "path": "valentines_chocolate",
+            "price": 14.90,
+            "image": "/assets/images/valentines_chocolate.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        },
+        {
+            "name": "Pocky Biscuit Sticks - Watermelon With Cooling Effect",
+            "path": "watermelon_pocky",
+            "price": 3.50,
+            "image": "/assets/images/watermelon_pocky.jpg",
+            "loadChildren": "app/product/product.module#ProductModule"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+<mat-list>
+    <ng-container *ngFor="let item of items">
+        <mat-list-item class="sidenav-item" routerLink="{{ item.path }}" *ngIf="item.nav">
+            <mat-icon class="material-icons" color="primary">store</mat-icon>
+            <span class="text">{{ item.name }}</span>
+        </mat-list-item>
+    </ng-container>
+</mat-list>

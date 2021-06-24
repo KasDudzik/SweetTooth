@@ -1,0 +1,7 @@
+{
+    "name": "Hayakawa Sumikko Gurashi Lactic Acid Tablets - Yogurt",
+    "path": "gurashi_tablets",
+    "price": 2.90,
+    "image": "/assets/images/gurashi_tablets.jpg",
+    "loadChildren": "app/product/product.module#ProductModule"
+}

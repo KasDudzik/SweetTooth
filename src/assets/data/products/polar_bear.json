@@ -1,0 +1,7 @@
+{
+    "name": "Happy Nikukyu Polar Bear Paw Gummies - White Soda",
+    "path": "polar_bear",
+    "price": 3.50,
+    "image": "/assets/images/polar_bear.jpg",
+    "loadChildren": "app/product/product.module#ProductModule"
+}

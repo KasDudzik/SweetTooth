@@ -1,0 +1,7 @@
+{
+    "name": "Hayakawa Rilakkuma Cider Candy",
+    "path": "rilakkuma",
+    "price": 4.30,
+    "image": "/assets/images/rilakkuma.jpg",
+    "loadChildren": "app/product/product.module#ProductModule"
+}

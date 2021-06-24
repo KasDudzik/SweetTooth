@@ -1,0 +1,7 @@
+{
+    "name": "Pocky Heart Biscuit Sticks - Cherry",
+    "path": "heart_pocky",
+    "price": 5.90,
+    "image": "/assets/images/heart_pocky.jpg",
+    "loadChildren": "app/product/product.module#ProductModule"
+}

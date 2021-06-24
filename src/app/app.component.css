@@ -1,0 +1,57 @@
+@font-face {
+    font-family: fontxd;
+    src: url(../assets/fonts/Pacifico-Regular.ttf);
+}
+
+.container {
+    background-image: url("../assets/bgr.jpg");
+    overflow: hidden;
+    padding-top: 64px;
+    min-height: 100vh !important;
+}
+
+.app-icon-button {
+    margin-right: 16px;
+    min-width: 0;
+}
+
+.app-toolbar-title {
+    cursor: pointer;
+    font-weight: normal;
+    text-shadow: 1px 1px rgba(0,0,0,0.9);
+    font-size: xx-large;
+    font-family: fontxd;
+}
+
+.app-toolbar-filler {
+    flex: 1 1 auto;
+}
+
+/* sidenav */
+
+.sidenav {
+    padding: 64px 16px 16px 16px;
+    min-width: 200px;
+    position: fixed;
+    box-shadow: 2px 5px 5px rgba(0,0,0,0.2);
+}
+
+mat-toolbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+
+.mat-toolbar {
+    background-color: rgb(255,217,237);
+}
+
+.material-icons {
+    font-size: xx-large;
+    text-shadow: 1px 1px rgba(0,0,0,0.9);
+}
+.app-content {
+    padding-top: 2%;
+}
+

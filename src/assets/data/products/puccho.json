@@ -1,0 +1,7 @@
+{
+    "name": "Puccho Chewy Candy - Strawberry",
+    "path": "puccho",
+    "price": 2.90,
+    "image": "/assets/images/puccho.jpg",
+    "loadChildren": "app/product/product.module#ProductModule"
+}

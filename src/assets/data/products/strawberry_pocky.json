@@ -1,0 +1,7 @@
+{
+    "name": "Pocky Biscuit Sticks - Chunky Strawberry Chocolate",
+    "path": "strawberry_pocky",
+    "price": 4.90,
+    "image": "/assets/images/strawberry_pocky.jpg",
+    "loadChildren": "app/product/product.module#ProductModule"
+}

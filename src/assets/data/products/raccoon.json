@@ -1,0 +1,7 @@
+{
+    "name": "Puchi Rascal The Raccoon Honey & Brown Sugar Candy",
+    "path": "raccoon",
+    "price": 4.20,
+    "image": "/assets/images/raccoon.jpg",
+    "loadChildren": "app/product/product.module#ProductModule"
+}

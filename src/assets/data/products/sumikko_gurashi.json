@@ -1,0 +1,7 @@
+{
+    "name": "Heart Sumikko Gurashi Bento Jelly",
+    "path": "sumikko_gurashi",
+    "price": 6.50,
+    "image": "/assets/images/sumikko_gurashi.jpg",
+    "loadChildren": "app/product/product.module#ProductModule"
+}

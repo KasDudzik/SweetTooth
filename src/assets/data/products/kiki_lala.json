@@ -1,0 +1,7 @@
+{
+    "name": "Little Twin Stars Konpeito Candy",
+    "path": "kiki_lala",
+    "price": 3.90,
+    "image": "/assets/images/kiki_lala.jpg",
+    "loadChildren": "app/product/product.module#ProductModule"
+}

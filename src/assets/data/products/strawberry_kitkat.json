@@ -1,0 +1,7 @@
+{
+    "name": "Kit Kat Chocolates - Mini Strawberry",
+    "path": "strawberry_kitkat",
+    "price": 6.90,
+    "image": "/assets/images/strawberry_kitkat.jpg",
+    "loadChildren": "app/product/product.module#ProductModule"
+}

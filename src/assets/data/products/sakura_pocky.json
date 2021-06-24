@@ -1,0 +1,7 @@
+{
+    "name": "Pocky Biscuit Sticks - Sakura Almond",
+    "path": "sakura_pocky",
+    "price": 5.90,
+    "image": "/assets/images/sakura_pocky.jpg",
+    "loadChildren": "app/product/product.module#ProductModule"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Kirby Mix'n'Match Gum",
+    "path": "kirby",
+    "price": 2.90,
+    "image": "/assets/images/kirby.jpg",
+    "loadChildren": "app/product/product.module#ProductModule"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Hokka Doraemon Milk Cookies",
+    "path": "doraemon",
+    "price": 1.90,
+    "image": "/assets/images/doraemon.jpg",
+    "loadChildren": "app/product/product.module#ProductModule"
+}

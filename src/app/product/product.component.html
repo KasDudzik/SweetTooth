@@ -1,0 +1,7 @@
+<mat-card>
+    <img mat-card-image src="{{ (item | async)?.image }}">
+    <mat-card-content>
+        <h3>{{ (item | async)?.name }}</h3>
+        <p>{{ (item | async)?.price | currency:'USD':true }}</p>
+    </mat-card-content>
+</mat-card>

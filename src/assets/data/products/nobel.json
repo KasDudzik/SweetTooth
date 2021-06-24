@@ -1,0 +1,7 @@
+{
+    "name": "Nobel Umeboshi No Taneame Plum Candy",
+    "path": "nobel",
+    "price": 3.90,
+    "image": "/assets/images/nobel.jpg",
+    "loadChildren": "app/product/product.module#ProductModule"
+}

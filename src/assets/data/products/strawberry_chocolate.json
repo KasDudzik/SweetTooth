@@ -1,0 +1,7 @@
+{
+    "name": "Morinaga Koeda Chocolate - Strawberry",
+    "path": "strawberry_chocolate",
+    "price": 5.90,
+    "image": "/assets/images/strawberry_chocolate.jpg",
+    "loadChildren": "app/product/product.module#ProductModule"
+}

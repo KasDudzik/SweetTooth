@@ -1,0 +1,25 @@
+
+
+.sidenav-item {
+    cursor: pointer;
+    transition: background-color .15s ease-out;
+}
+
+.sidenav-item:hover {
+    background-color: #eee;
+}
+
+.sidenav-item span {
+    margin-left: .5em;
+}
+
+.material-icons {
+    color: rgb(255,217,237);
+    font-size: 200%;
+    padding-bottom: 8px;
+}
+
+.text {
+    font-size: 180%;
+    color: rgb(255,217,237);
+}

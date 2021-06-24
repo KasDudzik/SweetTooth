@@ -1,0 +1,7 @@
+{
+    "name": "Hello Kitty Candy - Strawberry",
+    "path": "hello_kitty",
+    "price": 3.20,
+    "image": "/assets/images/hello_kitty.jpg",
+    "loadChildren": "app/product/product.module#ProductModule"
+}

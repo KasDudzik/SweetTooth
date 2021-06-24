@@ -1,0 +1,7 @@
+{
+    "name": "Kit Kat Chocolates - Japanese Plum",
+    "path": "plum_kitkat",
+    "price": 9.90,
+    "image": "/assets/images/plum_kitkat.jpg",
+    "loadChildren": "app/product/product.module#ProductModule"
+}

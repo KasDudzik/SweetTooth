@@ -1,0 +1,7 @@
+{
+    "name": "Pocky Biscuit Sticks - Watermelon With Cooling Effect",
+    "path": "watermelon_pocky",
+    "price": 3.50,
+    "image": "/assets/images/watermelon_pocky.jpg",
+    "loadChildren": "app/product/product.module#ProductModule"
+}
