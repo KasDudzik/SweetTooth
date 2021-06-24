@@ -1,8 +1,4 @@
-# angular-ecommerce
-
-Example store using the following libraries:
-* Angular
-* angular-material
+# Sweet Tooth - e-commerce shop
 
 ## Installation
 
@@ -23,20 +19,3 @@ Run the local server using the command:
 Then view the site at:
 
     http://localhost:4200/
-
-
-## Translations
-
-Use the translate command to build the messages file:
-
-    npm run translate
-
-
-## Directory structure
-
-    src/                       --> Frontend sources files
-
-
-## Contact
-
-For more information please contact kmturley
